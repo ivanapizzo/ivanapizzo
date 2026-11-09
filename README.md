@@ -1,4 +1,6 @@
-# Hola, soy Ivana Pizzo
+
+<img width="1049" height="733" alt="Screenshot 2026-11-10 at 12 47 09 AM" src="https://github.com/user-attachments/assets/dccd12db-8cc1-40f2-bdf4-9a2ef4f54603" />
+Hola, soy Ivana Pizzo
 
 ### Frontend Developer
 
@@ -23,6 +25,8 @@ Me interesa especialmente **cómo la tecnología impacta en las personas, en nue
 Mi proyecto personal: una plataforma de conversación que nace de mi interés por la comunicación humana y por explorar cómo la tecnología puede influir en nuestra forma de relacionarnos. Combina desarrollo frontend, experiencia de usuario y una visión de producto propia.
 
 http://converscious.com/
+
+<img src="https://github.com/user-attachments/assets/ff30cf2c-25aa-4d06-a54f-09af151167fe" alt="Converscious" width="130">
 
 **Portfolio personal**
 
