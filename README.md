@@ -2,15 +2,11 @@
 
 ### Frontend Developer
 
-Nací en Buenos Aires, Argentina, y actualmente vivo en España.
+Nací en Buenos Aires y actualmente vivo en España.
 
 Soy desarrolladora frontend y me encanta conectar con el diseño, la creatividad y la experiencia de usuario. Me interesa construir productos digitales que no solo funcionen correctamente, sino que también resulten intuitivos, atractivos y fáciles de utilizar.
 
-Hace varios años comencé en el mundo del diseño y la arquitectura, y evolucioné hacia el desarrollo de software, donde encontré una manera de combinar el detalle visual con la lógica y el pensamiento analítico. 
-
 Me interesa especialmente **cómo la tecnología impacta en las personas, en nuestras relaciones y en la manera en que experimentamos el mundo**. Creo que desarrollar un producto también implica reflexionar sobre cómo influye en nuestros comportamientos, qué necesidades responde y qué experiencias genera.
-
-Disfruto involucrarme en todo el proceso de creación: desde imaginar una funcionalidad y diseñar su interacción hasta desarrollar su arquitectura e implementarla con código.
 
 ### Tecnologías
 
