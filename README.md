@@ -29,9 +29,3 @@ http://converscious.com/
 Una experiencia interactiva inspirada en el universo, desarrollada con React, TypeScript y React Three Fiber, donde exploro la relación entre diseño, animación y programación.
 
 https://ivanapizzo.web.app/
-
-### Mi enfoque
-
-Me gusta pensar más allá de la implementación técnica. Entender qué necesita una persona, cómo interactúa con un producto y cómo transformar una idea en una experiencia digital coherente es una de las partes que más disfruto del desarrollo.
-
-Me motiva crear tecnología con intención: **productos que aporten valor, generen experiencias significativas
