@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hola, soy Ivana Pizzo
 
-<!--
-**ivanapizzo/ivanapizzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer
 
-Here are some ideas to get you started:
+Nací en Buenos Aires, Argentina, y actualmente vivo en España.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy desarrolladora frontend y me encanta conectar con el diseño, la creatividad y la experiencia de usuario. Me interesa construir productos digitales que no solo funcionen correctamente, sino que también resulten intuitivos, atractivos y fáciles de utilizar.
+
+Hace varios años comencé en el mundo del diseño y la arquitectura, y evolucioné hacia el desarrollo de software, donde encontré una manera de combinar el detalle visual con la lógica y el pensamiento analítico. 
+
+Me interesa especialmente **cómo la tecnología impacta en las personas, en nuestras relaciones y en la manera en que experimentamos el mundo**. Creo que desarrollar un producto también implica reflexionar sobre cómo influye en nuestros comportamientos, qué necesidades responde y qué experiencias genera.
+
+Disfruto involucrarme en todo el proceso de creación: desde imaginar una funcionalidad y diseñar su interacción hasta desarrollar su arquitectura e implementarla con código.
+
+### Tecnologías
+
+**Frontend:** React, TypeScript, JavaScript, Angular, HTML y CSS.
+
+**Backend y servicios:** Node.js, Firebase, MySQL, MongoDB y APIs REST.
+
+**Herramientas y testing:** Git, GitHub, Vite, Vitest, React Testing Library, Playwright y GitHub Actions.
+
+### Proyectos destacados
+
+**Converscious**
+
+Mi proyecto personal: una plataforma de conversación que nace de mi interés por la comunicación humana y por explorar cómo la tecnología puede influir en nuestra forma de relacionarnos. Combina desarrollo frontend, experiencia de usuario y una visión de producto propia.
+
+http://converscious.com/
+
+**Portfolio personal**
+
+Una experiencia interactiva inspirada en el universo, desarrollada con React, TypeScript y React Three Fiber, donde exploro la relación entre diseño, animación y programación.
+
+https://ivanapizzo.web.app/
+
+### Mi enfoque
+
+Me gusta pensar más allá de la implementación técnica. Entender qué necesita una persona, cómo interactúa con un producto y cómo transformar una idea en una experiencia digital coherente es una de las partes que más disfruto del desarrollo.
+
+Me motiva crear tecnología con intención: **productos que aporten valor, generen experiencias significativas
