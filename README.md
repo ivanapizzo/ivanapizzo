@@ -11,7 +11,8 @@ Soy desarrolladora frontend y me encanta conectar con el diseño, la creatividad
 Me interesa especialmente **cómo la tecnología impacta en las personas, en nuestras relaciones y en la manera en que experimentamos el mundo**. Creo que desarrollar un producto nos invita a reflexionar sobre cómo influye en el comportamiento humano, qué necesidades responde y qué experiencias genera.
 
 
-### Tecnologías
+
+## Tecnologías
 
 **Frontend:** React, TypeScript, JavaScript, Angular, HTML y CSS.
 
@@ -19,13 +20,17 @@ Me interesa especialmente **cómo la tecnología impacta en las personas, en nue
 
 **Herramientas y testing:** Git, GitHub, Vite, Vitest, React Testing Library, Playwright y GitHub Actions.
 
-### Proyectos destacados
+
+
+## Proyectos destacados
 
 **Converscious**
 
 Mi proyecto personal: una plataforma de conversación que nace de mi interés por las relaciones humanas y por explorar cómo la tecnología puede influir en nuestra forma de relacionarnos. Combina desarrollo frontend, experiencia de usuario y una visión de producto propia.
 
-http://converscious.com/
+https://converscious.com/
+
+
 
 **Portfolio personal**
 
