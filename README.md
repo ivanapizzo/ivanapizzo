@@ -6,9 +6,9 @@ Hola, soy Ivana Pizzo
 
 Nací en Buenos Aires y actualmente vivo en España.
 
-Soy desarrolladora frontend y me encanta conectar con el diseño, la creatividad y la experiencia de usuario. Me interesa construir productos digitales que no solo funcionen correctamente, sino que también resulten intuitivos, atractivos y fáciles de utilizar.
+Soy desarrolladora frontend y me encanta conectar con el diseño, la creatividad y la experiencia de usuario. Me interesa construir productos digitales con una arquitectura clara y que también resulten intuitivos, atractivos y fáciles de utilizar.
 
-Me interesa especialmente **cómo la tecnología impacta en las personas, en nuestras relaciones y en la manera en que experimentamos el mundo**. Creo que desarrollar un producto también implica reflexionar sobre cómo influye en nuestros comportamientos, qué necesidades responde y qué experiencias genera.
+Me interesa especialmente **cómo la tecnología impacta en las personas, en nuestras relaciones y en la manera en que experimentamos el mundo**. Creo que desarrollar un producto nos invita a reflexionar sobre cómo influye en el comportamiento humano, qué necesidades responde y qué experiencias genera.
 
 
 ### Tecnologías
@@ -23,7 +23,7 @@ Me interesa especialmente **cómo la tecnología impacta en las personas, en nue
 
 **Converscious**
 
-Mi proyecto personal: una plataforma de conversación que nace de mi interés por la comunicación humana y por explorar cómo la tecnología puede influir en nuestra forma de relacionarnos. Combina desarrollo frontend, experiencia de usuario y una visión de producto propia.
+Mi proyecto personal: una plataforma de conversación que nace de mi interés por las relaciones humanas y por explorar cómo la tecnología puede influir en nuestra forma de relacionarnos. Combina desarrollo frontend, experiencia de usuario y una visión de producto propia.
 
 http://converscious.com/
 
