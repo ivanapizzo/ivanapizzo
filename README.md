@@ -8,7 +8,7 @@ Nací en Buenos Aires y actualmente vivo en España.
 
 Soy desarrolladora frontend y me encanta conectar con el diseño, la creatividad y la experiencia de usuario. Me interesa construir productos digitales con una arquitectura clara y que también resulten intuitivos, atractivos y fáciles de utilizar.
 
-Me interesa especialmente **cómo la tecnología impacta en las personas, en nuestras relaciones y en la manera en que experimentamos el mundo**. Creo que desarrollar un producto nos invita a reflexionar sobre cómo influye en el comportamiento humano, qué necesidades responde y qué experiencias genera.
+Me interesa especialmente **cómo las personas usamos la tecnología y como impacta en la relación con nosotros mismos y con el mundo**. Creo que desarrollar un producto nos invita a reflexionar sobre cómo influye en el comportamiento humano, qué necesidades responde y qué experiencias genera.
 
 
 
@@ -24,17 +24,13 @@ Me interesa especialmente **cómo la tecnología impacta en las personas, en nue
 
 ## Proyectos destacados
 
-**Converscious**
-
-Mi proyecto personal: una plataforma de conversación que nace de mi interés por las relaciones humanas y por explorar cómo la tecnología puede influir en nuestra forma de relacionarnos. Combina desarrollo frontend, experiencia de usuario y una visión de producto propia.
+**Converscious** es mi proyecto personal: un chat que analiza los mensajes en tiempo real. Nació de mi interés por las relaciones interpersonales y por explorar cómo la tecnología puede influir en nuestra vida. Combina desarrollo frontend, experiencia de usuario y una visión de producto propia.
 
 https://converscious.com/
 
 
 
-**Portfolio personal**
-
-Una experiencia interactiva inspirada en el universo, desarrollada con React, TypeScript y React Three Fiber, donde exploro la relación entre diseño, animación y programación.
+**Portfolio personal** Una experiencia interactiva que va desde el espacio hasta un atardecer terrestre. Desarrollado con React, TypeScript y React Three Fiber. Explore la relación entre diseño, animación y programación.
 
 https://ivanapizzo.web.app/
 
